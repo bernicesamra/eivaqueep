@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://bokoophien.sprouts-plus.com/sitemap.xml
